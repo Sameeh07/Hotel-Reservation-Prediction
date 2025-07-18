@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Data Ingestion",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/data_injection.py",
+      "console": "integratedTerminal",
+      "env": {
+        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\melson\\Downloads\\causal-galaxy-464606-u7-24be7ef54451.json"
+      }
+    }
+  ]
+}

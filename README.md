@@ -1,2 +1,2 @@
-﻿# Hotel Reservation Prediction with MLFlow Jenkins and GCP Deployment
+﻿# Hotel Reservation Prediction Cancellation with MLFlow Jenkins and GCP Deployment
 

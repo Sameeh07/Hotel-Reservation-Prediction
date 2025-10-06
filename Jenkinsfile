@@ -3,7 +3,7 @@ pipeline{
 
     environment {
         VENV_DIR = 'venv'
-        GCP_PROJECT = "causal-galaxy-464606-u7"
+        GCP_PROJECT = "your-project-name"
         GCLOUD_PATH = "/var/jenkins_home/google-cloud-sdk/bin"
     }
 

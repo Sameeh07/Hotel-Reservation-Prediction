@@ -1,5 +1,5 @@
 data_ingestion:
-  bucket_name : "melson_bucket"
+  bucket_name : "your-bucket-name"
   bucket_file_name : "HotelReservations.csv"
   train_ratio : 0.8
 

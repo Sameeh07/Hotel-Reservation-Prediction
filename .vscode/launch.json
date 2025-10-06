@@ -8,7 +8,7 @@
       "program": "${workspaceFolder}/src/data_injection.py",
       "console": "integratedTerminal",
       "env": {
-        "GOOGLE_APPLICATION_CREDENTIALS": "C:\\Users\\melson\\Downloads\\causal-galaxy-464606-u7-24be7ef54451.json"
+        "GOOGLE_APPLICATION_CREDENTIALS": "path of json credential file"
       }
     }
   ]
